@@ -1,0 +1,23 @@
+h1 {
+  color: green;
+  background-color: yellow;
+}
+
+h2{
+	color: green;
+}
+
+p{
+	  color: blue;
+	  font: bold 20px/30px Georgia, serif;
+}
+
+.hidden {
+    display: none;
+}
+
+
+div{
+	  color: black;
+	  font: bold 20px/30px Georgia, serif;
+}
